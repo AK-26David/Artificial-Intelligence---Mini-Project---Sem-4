@@ -1,0 +1,30 @@
+CSE 2225 Artificial Intelligence FISAC (Mini Project)
+Title: Implementation of Sudoku Solver
+Problem Statement:
+The project aims to develop a program that can solve Sudoku puzzles automatically. Sudoku is
+a popular logic-based puzzle game involving a 9x9 grid divided into nine 3x3 subgrids. The
+objective is to fill the grid with digits from 1 to 9, ensuring that each row, each column, and
+each 3x3 subgrid contains all the digits from 1 to 9 without repetition.
+Objectives:
+● Develop an efficient algorithm to solve Sudoku puzzles of varying difficulty levels.
+● Create a user-friendly interface allowing users to input Sudoku puzzles and visualize
+the solved puzzle.
+● Implement a graphical representation of the Sudoku grid and provide feedback on the
+solving process.
+● Optimize the solver algorithm for speed and accuracy, considering time complexity and
+memory usage constraints.
+● Test the solver with a variety of Sudoku puzzles, including easy, medium, and hard
+puzzles, to ensure robustness and reliability.
+Course Content Mapped:
+The project will cover the following topics:
+● Data structures and algorithms for representing and manipulating Sudoku grids.
+● Backtracking algorithm: Implementing a backtracking-based approach to search for
+valid solutions recursively.
+● User interface design: Develop a graphical interface using libraries such as Tkinter (for
+Python) or JavaFX (for Java) to interact with the solver.
+● Input validation: Handling user input and validating Sudoku puzzles to ensure they
+adhere to the game's rules.
+● Testing and debugging: Testing the solver with various test cases and debugging any
+errors or inconsistencies in the solution.
+● Performance optimization: Employing techniques to optimize the solver's
+performance, such as constraint propagation or heuristic methods.
